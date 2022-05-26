@@ -1,6 +1,6 @@
 This game was built as a part of the educational program of the Association Biom.
 
-The goal is to test knowledge of animal sounds and is hosted [here](https://github.com/Nivethaa15/Guess-The-Animal/).
+The goal is to test knowledge of animal sounds and is hosted [here]( https://nivethaa15.github.io/Guess-The-Animal/).
 
 # Technologies
 - jQuery
@@ -15,7 +15,7 @@ The goal is to test knowledge of animal sounds and is hosted [here](https://gith
 - If the user click on the wrong animal image, one point is subtracted from the point score. The user needs to keep guesing.
 - If the correct animal is clicked, one point is added to the scoreboard.
 The new sound is played and new six animal images are displayed.
-- If the user doesn't know the right animal and doesn't want to guess, he/she can click on "Pomoć!".
+- If the user doesn't know the right animal and doesn't want to guess, he/she can click on "Help you".
 The game will select and show correct anima, but two point will be subtracted from the scoreboard.
 The new sound is played and new six animal images are displayed.
 - The game is played for ten rounds.
