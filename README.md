@@ -6,8 +6,7 @@ The goal is to test knowledge of animal sounds and is hosted [here]( https://niv
 - jQuery
 - jQuery-ui
 
-# How to play
-![game overview](../screenshots/overview.jpg)
+
 
 - When the site is loaded, it plays an animal sound and displays six animal images.
 - The user has to click on the animal image for which he/she thinks that is making played sound.
