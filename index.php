@@ -1,7 +1,7 @@
  <!DOCTYPE html>
 <html>
     <head>
-    <title>Pogodi životinju</title>
+    <title>Animal Sound Identification</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -20,8 +20,8 @@
                 </div>
                 <div class="col-xs-3">
                     <div class="gameTitle">
-                        <div>POGODI</div>
-                        <div>ŽIVOTINJU</div>
+                        <div>Animal</div>
+                        <div>Sounds</div>
                     </div>
                     <img  class="hexagonBlue2" src="image/svg/hexagonBlue2.png">
                 </div>
