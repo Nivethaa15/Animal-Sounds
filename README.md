@@ -1,6 +1,6 @@
 This game was built as a part of the educational program of the Association Biom.
 
-The goal is to test knowledge of animal sounds and is hosted [here](http://game.ptice.net/).
+The goal is to test knowledge of animal sounds and is hosted [here](https://github.com/Nivethaa15/Guess-The-Animal/).
 
 # Technologies
 - jQuery
